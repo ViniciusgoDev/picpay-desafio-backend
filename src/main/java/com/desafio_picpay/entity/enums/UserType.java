@@ -1,8 +1,6 @@
 package com.desafio_picpay.entity.enums;
 
-
 public enum UserType {
-    STORE,
-    COMMON
-
+    STORE,  // Representa loja
+    COMMON  // Representa usuário comum
 }
